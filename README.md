@@ -24,8 +24,8 @@ Welcome to my personal portfolio project! This project is designed to showcase m
 - JavaScript
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/Harshrajani/portfolio.git`
-2. Navigate to the project directory: `cd your-portfolio`
+1. Clone the repository: `git clone https://github.com/Harshrajani/Portfolio.git`
+2. Navigate to the project directory: `cd Portfolio`
 3. Install dependencies: `npm install`
 
 ## Usage
@@ -43,4 +43,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 Feel free to reach out to me if you have any questions or just want to connect:
 - Email: harshrajani849@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username/)
+- LinkedIn: [Harsh Rajani](https://www.linkedin.com/in/your-username/)
