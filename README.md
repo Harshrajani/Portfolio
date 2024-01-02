@@ -43,4 +43,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 Feel free to reach out to me if you have any questions or just want to connect:
 - Email: harshrajani849@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username/)
+- LinkedIn: [Harsh Rajani](https://www.linkedin.com/in/your-username/)
