@@ -1,0 +1,41 @@
+.projects__content {
+    display: flex;
+    margin: auto;
+    width: 350px;
+    height: 350px;
+    background-color:var(--container-color) ;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding:2rem 4rem;
+    border-radius: 1.25rem;
+    justify-content: center;
+    align-self: center;
+
+}
+.project__info{
+    align-self: center;
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-medium);
+    text-align: center;
+    color: rgb(117, 117, 117);
+    
+}
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+  
+}
+
+/* For medium devices */
+@media screen and (max-width: 768px) {
+   .projects__content{
+    width: 300px;
+   }
+}
+
+@media screen and (max-width: 576px) {
+}
+
+/* For small devices */
+@media screen and (max-width: 350px) {
+ 
+}
