@@ -25,7 +25,7 @@ Welcome to my personal portfolio project! This project is designed to showcase m
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/Harshrajani/Portfolio.git`
-2. Navigate to the project directory: `cd your-portfolio`
+2. Navigate to the project directory: `cd Portfolio`
 3. Install dependencies: `npm install`
 
 ## Usage
