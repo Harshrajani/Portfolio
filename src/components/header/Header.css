@@ -5,7 +5,7 @@
     left: 0;
     z-index: var(--z-fixed);
     background-color: var(--body-color);
-    padding-top: 10px;
+    padding-top: 2px;
 }
 .nav{
     height: calc(var(--header-height)+1.5rem);
