@@ -13,9 +13,9 @@ const About = () => {
         <div className="about__data">
           <Info></Info>
           <p className='about__description'>
-           I am currently serving as a core team member in the competitive programming domain at "Google Developers Student Club MBM". A coding enthusiast and avid learner, Proficient in data structures (C++), and consistently solving questions on platforms like LeetCode and CodeChef, enhancing my problem-solving and coding abilities.
-          I have ventured into self-taught frontend development, actively acquiring skills in new technologies with the goal of becoming a full-stack web developer.
-
+           I am currently serving as a core team member in the competitive programming domain at "Google Developers Student Club MBM". A coding enthusiast and avid learner,
+            Proficient in data structures (C++), and consistently solving questions on platforms like LeetCode and CodeChef, enhancing my problem-solving and coding abilities.
+         
           </p>
           <a download="" href={CV} className="button button--flex">
             Download CV
