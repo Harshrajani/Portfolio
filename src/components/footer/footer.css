@@ -15,7 +15,7 @@
     margin-bottom: var(--mb-2);
 }
 .footer__link:hover{
-    color:coral;
+    color:rgb(115, 225, 255);
 }
 .footer__list{
     display: flex;
