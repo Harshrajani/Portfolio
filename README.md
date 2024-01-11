@@ -35,11 +35,6 @@ Welcome to my personal portfolio project! This project is designed to showcase m
 4. Run the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to see your portfolio.
 
-
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 Feel free to reach out to me if you have any questions or just want to connect:
 - Email: harshrajani849@gmail.com
