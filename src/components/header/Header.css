@@ -8,7 +8,7 @@
     padding-top: 2px;
 }
 .nav{
-    height: calc(var(--header-height)+1.5rem);
+    height: calc(var(--header-height)+0.5rem);
     display: flex;
     justify-content: space-between;
     align-items: center;
