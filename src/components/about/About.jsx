@@ -1,7 +1,7 @@
 import React from 'react'
 import "./about.css";
 import Aboutimg from "./picture.jpg"
-import CV from "./CV.pdf"
+import resume from "./HarshRajani_.pdf"
 import Info from './Info';
 const About = () => {
   return (
@@ -17,8 +17,8 @@ const About = () => {
             Proficient in data structures (C++), and consistently solving questions on platforms like LeetCode and CodeChef, enhancing my problem-solving and coding abilities.
          
           </p>
-          <a download="" href={CV} className="button button--flex">
-            Download CV
+          <a download="" href={resume} className="button button--flex">
+            Download Resume
             <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
